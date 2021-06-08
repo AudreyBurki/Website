@@ -6,13 +6,15 @@ We study the cognitive architecture of the language production and comprehension
 
 
 
-<img src="./Lab_June2021.jpg">
-Here is a picture our first non-virtual social event in more than a year!
-
-
 [News](https://audreyburki.github.io/Lab-News/)  
 
 [Lab members](https://audreyburki.github.io/Lab-Members/)  
 
 [Lab meetings]
 
+
+
+
+
+<img src="./Lab_June2021.jpg">
+Here is a picture of our first non-virtual social event in more than a year!
