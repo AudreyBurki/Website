@@ -6,8 +6,7 @@ We study the cognitive architecture of the language production and comprehension
 
 
 
-<img src="./
-Lab_June2021.jpg">
+<img src="./Lab_June2021.jpg">
 
 
 [News](https://audreyburki.github.io/Lab-News/)  
