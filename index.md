@@ -11,11 +11,14 @@ We have a dedicated interest in applied statistics (machine learning, bayesian m
 ## Overview of selected projects:
 
 [Drive and speak](https://audreyburki.github.io/Drive-and-Speak/)  
-[Assessing evidence with bayesian meta-analyses](https://audreyburki.github.io/Meta-analyses-Word-Production/)
+
+[Bayesian meta-analyses of well-known effects](https://audreyburki.github.io/Meta-analyses-Word-Production/)
 
 [Are data collected on-line more variable?](https://audreyburki.github.io/Online-Data-Collection/)
 
 [How reliable are picture naming data?]
+
+[Learning a new language: does seeing the spelling help you?](https://audreyburki.github.io/Orthography-in-L2-Learning/)
 
 ## The lab
 
