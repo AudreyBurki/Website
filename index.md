@@ -26,11 +26,9 @@ We have a dedicated interest in applied statistics (machine learning, bayesian m
 
 [Lab members](https://audreyburki.github.io/Lab-Members/)  
 
-[Available positions](https://audreyburki.github.io/Open-Positions/)  
-
-[Lab meetings]
-
 [Follow the CSLM LAB on Github](https://github.com/cslm-lab)
+
+
 
 
 
