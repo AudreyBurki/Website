@@ -8,7 +8,7 @@ We have a dedicated interest in applied statistics (machine learning, bayesian m
 
 
 
-## Overview of selected projects:
+## Overview of selected projects: (work in progress)
 
 [Drive and speak](https://audreyburki.github.io/Drive-and-Speak/)  
 
