@@ -14,7 +14,7 @@ We have a dedicated interest in applied statistics (machine learning, bayesian m
 
 ## The lab
 
-[Open positions](https://audreyburki.github.io/Lab-News/](https://audreyburki.github.io/Open-Positions/)  
+[Open positions](https://audreyburki.github.io/Open-Positions/)  
 
 [News](https://audreyburki.github.io/Lab-News/)  
 
